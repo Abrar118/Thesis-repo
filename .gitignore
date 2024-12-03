@@ -1,0 +1,6 @@
+## lib
+.venv/lib/site-packages
+
+## logs
+logs
+
