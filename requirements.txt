@@ -2,12 +2,11 @@ pandas
 openpyxl
 matplotlib
 seaborn
-scikit-learn
 numpy
-torch
-torchvision
-torchaudio
+tensorflow
+scikit-learn
 nltk
+jupyter_http_over_ws
 
-# Install PyTorch with the following command:
-# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+## jupyter serverextension enable --py jupyter_http_over_ws
+## jupyter notebook --NotebookApp.allow_origin='https://colab.research.google.com' --port=8888 --NotebookApp.port_retries=0
