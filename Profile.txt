@@ -1,0 +1,28 @@
+General
+	- Dashboard - active surveys, total feedbacks, pending responses, overall customer satisfaction status (done)
+	- Data Settings - setting related to data upload, model training and so on
+	- Sentiment Analysis - sentiment, emotions, intent of the responses of the customer feedbacks, Automatic theme and topic extraction, keywords and phrase identification
+	- Predictive analysis - satisfaction trends, churn risks, recommend improvements
+	- ML Model training - Model Selection and data upload, preprocessing methods and training of model
+	- Reporting and visualization - Real time feedback insights, report generation, data export to multiple formats,
+	- Teams and Messages - The teams and groups of the company and messages interface
+
+Survey
+	- drag and drop survey builder
+	- customizable templates - with custom variables
+	- voice to text input in English/ Bengali
+	- responses
+	- Survey list
+
+future work
+	- CRM system
+	- Social media integration
+	- payment gateway integration
+
+
+
+Challenges - 
+1. Low digital literacy
+2. Diverse linguistic backgrounds
+3. Cost-sensitivity
+4. Limited internet connectivity in most areas
